@@ -1,0 +1,11 @@
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\bin\Debug\WebApiEmployees.Entities.dll
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\bin\Debug\WebApiEmployees.Entities.pdb
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\obj\Debug\WebApiEmployees.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\obj\Debug\WebApiEmployees.Entities.dll
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\obj\Debug\WebApiEmployees.Entities.pdb
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\obj\Debug\WebApiEmployees.Entities.csprojAssemblyReference.cache
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\obj\Debug\WebApiEmployees.Entities.csproj.CopyComplete
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\bin\Debug\WebApiEmployees.Common.dll
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Entities\bin\Debug\WebApiEmployees.Common.pdb

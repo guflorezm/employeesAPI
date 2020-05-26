@@ -1,0 +1,6 @@
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Common\bin\Debug\WebApiEmployees.Common.dll
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Common\bin\Debug\WebApiEmployees.Common.pdb
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Common\obj\Debug\WebApiEmployees.Common.csprojAssemblyReference.cache
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Common\obj\Debug\WebApiEmployees.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Common\obj\Debug\WebApiEmployees.Common.dll
+C:\Users\Gerson\source\repos\WebApiEmployees\WebApiEmployees.Common\obj\Debug\WebApiEmployees.Common.pdb
