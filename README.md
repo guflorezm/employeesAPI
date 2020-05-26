@@ -11,6 +11,6 @@ To compile the web app this command must be executed
 To execute the web app this command must be executed
 # ng serve -o
 
-if the backend api is running in another port different to 60880 the variable # apiURL must be changed in the file environment.ts which is located on the folder src/environments
+if the backend api is running in another port different to 60880 the variable apiURL must be changed in the file environment.ts which is located on the folder src/environments
 
 The folder demo contains a video to show the behavior of the application
